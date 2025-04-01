@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Mudando minha posição GPS</string>
+    <string name="mark_position">Marcar posição inicial</string>
+    <string name="calculate">Calcular</string>
+    <string name="current_position">Posição atual:</string>
+    <string name="initial_position">Posição inicial:</string>
+    <string name="distance">Distância:</string>
+    <string name="compass_angle">Ângulo da bússola:</string>
+    <string name="no_location">Localização não disponível</string>
+    <string name="location_permission_required">Permissão de localização necessária</string>
+    <string name="initial_position_marked">Posição inicial marcada!</string>
+    <string name="distance_calculated">Distância calculada: %1$s metros</string>
+</resources>
